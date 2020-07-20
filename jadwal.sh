@@ -23,7 +23,8 @@ read -p "Nama-Kota-Kamu : " kota
 echo
 echo $cy"[...Mengumpulkan Data²...]"$pu
 sleep 3
-curl https://jadwalsholat.pkpu.or.id/$kota
+SHUBUH  DZUHUR  ASHAR  MAGHRIB ISYA$kota
+04:42   11:59   15:21   17:52 19:07
 echo
 read -p "MAU BALIK LAGI {Y/T} : " pil
 if [ $pil = Y ] || [ $pil = y ]
