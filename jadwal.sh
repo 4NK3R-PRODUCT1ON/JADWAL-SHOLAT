@@ -23,7 +23,7 @@ read -p "Nama-Kota-Kamu : " kota
 echo
 echo $cy"[...Mengumpulkan Data²...]"$pu
 sleep 3
-SHUBUH  DZUHUR  ASHAR  MAGHRIB ISYA$kota
+SHUBUH  DZUHUR  ASHAR  MAGHRIB ISYA
 04:42   11:59   15:21   17:52 19:07
 echo
 read -p "MAU BALIK LAGI {Y/T} : " pil
