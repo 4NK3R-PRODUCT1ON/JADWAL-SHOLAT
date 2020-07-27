@@ -11,4 +11,4 @@ $cd JADWAL-SHOLAT
 
 $ls
 
-$sh solat.py
+$python2 solat.py
